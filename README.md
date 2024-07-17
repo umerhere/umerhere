@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/coding.jpg">
+  <img src="/coding.jpg" height="100" width="100">
 </div>
 
 <h1 align="center">Hi 👋, I'm Umar Aslam
