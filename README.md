@@ -1,14 +1,14 @@
 <div align="center">
 <img src=/giphy.gif>
 </div>
-<h1 align="center">Hi 👋, I'm Umar Aslam <img align="center" src="https://camo.githubusercontent.com/ad43cb24da52ab95bab8a867668cbbb53395885fd32a15fe09eca22b1226aad6/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6d6963726f736f66742d7465616d732f3336332f746563686e6f6c6f676973742d6c696768742d736b696e2d746f6e655f31663964312d31663366622d323030642d31663462622e706e67" alt="https://www.linkedin.com/in/diya-khasawneh-/" height="30" width="30" />  </h1>
+<h1 align="center">Hi 👋, I'm Umar Aslam <img align="center" src="https://camo.githubusercontent.com/ad43cb24da52ab95bab8a867668cbbb53395885fd32a15fe09eca22b1226aad6/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6d6963726f736f66742d7465616d732f3336332f746563686e6f6c6f676973742d6c696768742d736b696e2d746f6e655f31663964312d31663366622d323030642d31663462622e706e67" alt="https://www.linkedin.com/in/diya-khasawneh-/" height="40" width="40" />  </h1>
 
-<h3 align="center">Fullstack developer from **Pakistan**</h3>
+<h3 align="center">Fullstack developer from <strong>Pakistan</strong></h3>
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="[[https://linkedin.com/in//diya-khasawneh-/](https://www.linkedin.com/in/umeraslam08/)](https://www.linkedin.com/in/umeraslam08/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diya-khasawneh-/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/umeraslam08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umeraslam08/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
