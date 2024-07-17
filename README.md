@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Umar Aslam </h1>
 
-<h3 align="center">Fullstack developer with</h3>
+<h3 align="center">Fullstack developer with <h3 align="center">Junior Front-End developer <img align="center" src="https://camo.githubusercontent.com/ad43cb24da52ab95bab8a867668cbbb53395885fd32a15fe09eca22b1226aad6/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6d6963726f736f66742d7465616d732f3336332f746563686e6f6c6f676973742d6c696768742d736b696e2d746f6e655f31663964312d31663366622d323030642d31663462622e706e67" alt="https://www.linkedin.com/in/diya-khasawneh-/" height="10" width="10" /></h3></h3>
 
 
 <h3 align="center">Connect with me:</h3>
